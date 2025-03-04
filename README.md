@@ -78,14 +78,10 @@ $ git checkout Tugas-html
 Switched to branch 'Tugas-html'
 
 V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (Tugas-html)
+$ touch Tugas-git.html
+
+V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (Tugas-html)
 $ notepad Tugas-html.txt
-
-V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (Tugas-html)
-$ git add^C
-
-V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (Tugas-html)
-$ git add Tugas-html
-fatal: pathspec 'Tugas-html' did not match any files
 
 V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (Tugas-html)
 $ git add Tugas-html.txt
@@ -353,6 +349,3 @@ Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/ElsaMonica77/belajarGIT.git
    0a8a15a..f0d858e  main -> main
-
-V  I  C  T  U  S@LAPTOP-NH5ILNTK MINGW64 ~/Documents/belajarGIT (main)
-$
